@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innokentie)](https://github.com/Innokentie/Innokentie)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Innokentie&repo=ninvest_bot)](https://github.com/Innokentie/ninvest_bot)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Innokentie)](https://github.com/Innokentie/Innokentie)
