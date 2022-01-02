@@ -1,4 +1,4 @@
-[![Discord Badge](https://img.shields.io/discord/775520099112189974?label=Discord)](https://discord.gg/khPXrsApxS)
+[![Discord Badge](https://img.shields.io/discord/775520099112189974?label=Discord&logoColor=red)](https://discord.gg/khPXrsApxS)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innokentie&theme=dark&bg_color=30,e96443,904e95&text_color=ffffff&icon_color=e9d179)](https://github.com/Innokentie/Innokentie/)
 
