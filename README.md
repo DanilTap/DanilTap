@@ -4,4 +4,5 @@
 
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-424242?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/PZyhBVastb)
-[![Codepen Badge](https://img.shields.io/badge/-CodePen-424242?style=for-the-badge&logo=CodePen)]()
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-424242?style=for-the-badge&logo=CodePen)](https://codepen.io/MControll)
+[![StackOverflow Badge](https://img.shields.io/badge/-Stack Overflow-F58025?style=for-the-badge&logo=Stack Overflow)]()
