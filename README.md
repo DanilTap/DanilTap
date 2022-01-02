@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innokentie&show_icons=true&theme=dark&bg_color=30,e96443,904e95&text_color=ffffff&icon_color=c55bbf)](https://github.com/Innokentie/Innokentie/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innokentie&show_icons=true&theme=dark&bg_color=30,e96443,904e95&text_color=ffffff&icon_color=d7de3a)](https://github.com/Innokentie/Innokentie/)
